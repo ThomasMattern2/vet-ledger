@@ -1,5 +1,4 @@
 # vet-ledger
-Overview
 The Vet Ledger and Appointment Scheduler is a powerful tool designed to help veterinary clinics efficiently manage their animal treatments and appointments. This software allows veterinary professionals to track treatment times for animals and automatically generate the most time-efficient schedule for a week, ensuring that all patients receive the care they need without overloading the clinic's resources.
 
 Features
